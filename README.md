@@ -6,17 +6,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragjaiswal9548&label=Profile%20views&color=0e75b6&style=flat" alt="anuragjaiswal9548" /> </p>
 
 <h1 align="center">Hi 👋, I'm Anurag Jaiswal</h1>
-<h3 align="center">A passionate Android Developer | Data Analyst</h3>
+<h3 align="center">A passionate Android Developer | Data Analyst  | Backened Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragjaiswal9548&label=Profile%20views&color=0e75b6&style=flat" alt="anuragjaiswal9548" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Building Simple Alexa**
+- 🔭 I’m currently working on **Springboot**
 
-- 🌱 I’m currently learning **SQL, python , Backened**
+- 🌱 I’m currently learning **Java,  Backened development using Springboot**
 
-- 👯 I’m looking to collaborate on **My Alexa**
+- 👯 I’m looking to collaborate on **Skills.**
 
 - 📫 How to reach me **anuragjaiswal9548@gmail.com**
 
