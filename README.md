@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Springboot**
 
-- 🌱 I’m currently learning **Java,  Backened development using Springboot**
+- 🌱 I’m currently learning **Java,  Backend development using Springboot**
 
 - 👯 I’m looking to collaborate on **Skills.**
 
